@@ -4,7 +4,7 @@
 
 
 
-###使用插件
+### 使用插件
 
 	$.initPreLoad(imgs , {
 		order: "ordered",
