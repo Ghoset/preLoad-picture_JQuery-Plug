@@ -1,6 +1,6 @@
 ### 插件效果
 
-![](http://ozetawl9z.bkt.clouddn.com/201805311907_585.gif)
+![http://ozetawl9z.bkt.clouddn.com/201805311907_585.gif](http://ozetawl9z.bkt.clouddn.com/201805311907_585.gif)
 
 
 
